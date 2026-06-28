@@ -57,7 +57,9 @@ const Contact = () => {
             </div>
             <div className="rounded-3xl border border-slate-700/80 bg-slate-900/80 p-6">
               <p className="text-slate-300">Phone</p>
-              <p className="mt-2 text-xl font-semibold text-white">+91 93467 18469</p>
+              <a href="tel:+919346718469" className="mt-2 block text-xl break-words font-semibold text-white transition hover:text-sky-300">
+                +91 93467 18469
+              </a>
             </div>
             <div className="rounded-3xl border border-slate-700/80 bg-slate-900/80 p-6">
               <p className="text-slate-300">Location</p>
