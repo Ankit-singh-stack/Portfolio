@@ -4,9 +4,9 @@ export const projects = [
     description: 'A comprehensive HR management system that allows organizations to manage employees, attendance, leave requests, and employee records efficiently.',
     tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'JWT', 'Tailwind CSS'],
     github: '#',
-    demo: 'https://github.com/Ankit-singh-stack/Portfolio.git',
+    demo: 'https://hrportal-client.onrender.com/login',
     features: ['Employee Management', 'Attendance Management', 'Leave Management', 'Authentication and Authorization', 'Dashboard Analytics'],
-    image: '/profile.svg',
+    image: '/project-photo-1.svg',
   },
   {
     title: 'Personal Portfolio Website',
@@ -15,7 +15,7 @@ export const projects = [
     github: '#',
     demo: 'https://portfolio-10qr.onrender.com/',
     features: ['Responsive Design', 'Smooth Animations', 'Dark/Light Mode', 'Contact Form'],
-    image: '/profile.svg',
+    image: '/project-photo-2.svg',
   },
   {
     title: 'Hotel Booking Application',
@@ -24,6 +24,6 @@ export const projects = [
     github: '#',
     demo: '#',
     features: ['User Authentication', 'Hotel Search and Filtering', 'Room Booking System', 'Booking Management', 'Payment Integration Ready', 'Responsive UI'],
-    image: '/profile.svg',
+    image: '/project-photo-3.svg',
   },
 ];
