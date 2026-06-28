@@ -4,7 +4,7 @@ export const projects = [
     description: 'A comprehensive HR management system that allows organizations to manage employees, attendance, leave requests, and employee records efficiently.',
     tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'JWT', 'Tailwind CSS'],
     github: '#',
-    demo: '#',
+    demo: 'https://github.com/Ankit-singh-stack/Portfolio.git',
     features: ['Employee Management', 'Attendance Management', 'Leave Management', 'Authentication and Authorization', 'Dashboard Analytics'],
     image: '/profile.svg',
   },
