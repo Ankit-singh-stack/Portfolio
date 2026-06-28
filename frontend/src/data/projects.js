@@ -13,7 +13,7 @@ export const projects = [
     description: 'A modern responsive personal portfolio showcasing skills, experience, projects, and achievements.',
     tags: ['React.js', 'Tailwind CSS', 'Framer Motion'],
     github: '#',
-    demo: '#',
+    demo: 'https://portfolio-10qr.onrender.com/',
     features: ['Responsive Design', 'Smooth Animations', 'Dark/Light Mode', 'Contact Form'],
     image: '/profile.svg',
   },
