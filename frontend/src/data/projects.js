@@ -6,7 +6,7 @@ export const projects = [
     github: '#',
     demo: 'https://hrportal-client.onrender.com/login',
     features: ['Employee Management', 'Attendance Management', 'Leave Management', 'Authentication and Authorization', 'Dashboard Analytics'],
-    image: '/project-photo-1.svg',
+    image: '/Hr portal live case img.png',
   },
   {
     title: 'Personal Portfolio Website',
@@ -15,7 +15,7 @@ export const projects = [
     github: '#',
     demo: 'https://portfolio-10qr.onrender.com/',
     features: ['Responsive Design', 'Smooth Animations', 'Dark/Light Mode', 'Contact Form'],
-    image: '/project-photo-2.svg',
+    image: '/portfoilio live case img.png',
   },
   {
     title: 'Hotel Booking Application',
@@ -24,6 +24,6 @@ export const projects = [
     github: '#',
     demo: '#',
     features: ['User Authentication', 'Hotel Search and Filtering', 'Room Booking System', 'Booking Management', 'Payment Integration Ready', 'Responsive UI'],
-    image: '/project-photo-3.svg',
+    image: '/Hotel booking live case img.png',
   },
 ];
