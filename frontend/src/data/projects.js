@@ -6,7 +6,7 @@ export const projects = [
     github: 'https://github.com/Ankit-singh-stack/HrPortal',
     demo: 'https://hrportal-client.onrender.com/login',
     features: ['Employee Management', 'Attendance Management', 'Leave Management', 'Authentication and Authorization', 'Dashboard Analytics'],
-    image: '/Hr portal live case img.png',
+    image: '/hr-portal-live-case.png',
   },
   {
     title: 'Personal Portfolio Website',
@@ -15,7 +15,7 @@ export const projects = [
     github: 'https://github.com/Ankit-singh-stack/Portfolio',
     demo: 'https://portfolio-10qr.onrender.com/',
     features: ['Responsive Design', 'Smooth Animations', 'Dark/Light Mode', 'Contact Form'],
-    image: '/portfoilio live case img.png',
+    image: '/portfolio-live-case.png',
   },
   {
     title: 'Hotel Booking Application',
@@ -24,6 +24,6 @@ export const projects = [
     github: '#',
     demo: '#',
     features: ['User Authentication', 'Hotel Search and Filtering', 'Room Booking System', 'Booking Management', 'Payment Integration Ready', 'Responsive UI'],
-    image: '/Hotel booking live case img.png',
+    image: '/hotel-booking-live-case.png',
   },
 ];
